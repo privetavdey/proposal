@@ -430,8 +430,8 @@ body {
 
 @media (max-width: 768px) {
   body { padding: 8px; }
-  .hero { aspect-ratio: 9/14; max-height: 80vh; }
-  .hero-logo { width: 60%; }
+  .hero { aspect-ratio: auto; height: 100vh; max-height: none; }
+  .hero-logo { width: 300px !important; min-width: 0 !important; max-width: 80% !important; height: auto !important; aspect-ratio: 442 / 206; }
   .hero-label { font-size: 14px; }
   .brief { padding: 36px 24px 48px; margin-top: -28px; }
   .trio { grid-template-columns: 1fr; }
