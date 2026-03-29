@@ -70,7 +70,7 @@ export default function Home() {
         </div>
         <div className="proposal-section-body">
           <p>Tembo lets companies run any AI coding agent, any model, inside their own infrastructure without getting locked into one provider. The whole point is that you pick what works, you self-host it, and when something better comes along, you switch.</p>
-          <p>You&apos;re signing companies with 200–500 person engineering teams while being a team of eight, so the product is clearly working and you&apos;ve got traction, but the brand hasn&apos;t caught up.</p>
+          <p>Tembo is signing companies with 200–500 person engineering teams while being a team of eight, so the product is clearly working and it's got traction, but the brand hasn&apos;t caught up.</p>
         </div>
       </div>
 
@@ -79,10 +79,10 @@ export default function Home() {
           <h3>The Goals</h3>
         </div>
         <div className="proposal-section-body">
-          <p><strong>People know it&apos;s Tembo.</strong> Tembo is top of mind along with big players, like Cursor or Devin, but clearly distinct from the rest of the market. Consistent across all the channels and visually unique.</p>
+          <p><strong>People know it&apos;s Tembo.</strong> Tembo is top of mind along with the big players, like Cursor or Devin, but clearly distinct, consistent across all the channels and visually unique.</p>
           <p><strong>Tembo looks serious enough for enterprise.</strong> When enterprise buyers look you up after a demo, the brand reinforces what your sales team just told them.</p>
-          <p><strong>Tembo is a company people are excited to work with.</strong> The brand should make Tembo look like a company where talent actually wants to be.</p>
-          <p><strong>Your team can move fast.</strong> Your sales and marketing people open a tool, type a few words, and export a branded social graphic without a designer.</p>
+          <p><strong>Tembo is a company people are excited to work with.</strong> The brand makes Tembo look like a company where talent actually wants to be.</p>
+          <p><strong>Your team moves fast.</strong> Your sales and marketing people open a tool, type a few words and export a branded social graphic without a designer.</p>
           <p><strong>Tembo&apos;s brand still works when you go beyond engineering.</strong> When you expand beyond engineering into sales, growth, and the rest of the company, the brand scales naturally.</p>
         </div>
       </div>
@@ -93,11 +93,11 @@ export default function Home() {
         </div>
         <div className="proposal-section-body">
           <p><strong>Weeks 1–2 — Strategy &amp; visual identity.</strong> We start with a couple of strategic workshops to understand narrative, positioning, audience and competitive landscape. Based on the strategy, we&apos;ll create 5 moodboards to start looking for a direction.</p>
-          <p>After we agree on the broad directions, we&apos;ll develop 2 identity concepts, which can then be refined and taken further.</p>
-          <p><strong>Week 3 — Polish and toolkits.</strong> Once we agree on the direction, we&apos;ll move to actually applying it to your immediate tasks and creating templates, guidelines and tooling, so you can move quickly.</p>
+          <p>After we agree on the broad directions, we&apos;ll develop 2 identity concepts, which can then be refined further.</p>
+          <p><strong>Week 3 — Polish and toolkits.</strong> Once we pick and agree on the final direction, we&apos;ll move to actually applying it to your immediate tasks and creating templates, guidelines and tooling, so you can move quickly.</p>
           <p><strong>Weeks 4–6 — Website design.</strong> We&apos;ll audit the current website, analyze your sales calls and marketing to create a better website structure and write the copy to maximize conversion.</p>
-          <p>We then move to design and also start developing in parallel as the pages are getting finished.</p>
-          <p><strong>Weeks 6–8 — Development, polish and handoff.</strong> With designs finalized we can focus on development, QA and final handoff of the project.</p>
+          <p>We then move to design and start development in parallel as the pages are getting finished.</p>
+          <p><strong>Weeks 6–8 — Development, polish and handoff.</strong> With designs finalized we focus on development, QA and final handoff of the project.</p>
         </div>
       </div>
 
