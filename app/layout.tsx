@@ -5,7 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Apex Studio × Northfield Co.",
+  title: "Proposal for Tembo from Avdey Design",
+  icons: { icon: "/favicon.png" },
 };
 
 export default function RootLayout({

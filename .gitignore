@@ -8,3 +8,4 @@ node_modules
 res
 skills-lock.json
 index.html.bak
+.vercel
