@@ -8,8 +8,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "agentation": "^3.0.2",
-    "interface-kit": "latest",
     "next": "^16.2.1",
     "react": "^19",
     "react-dom": "^19"
